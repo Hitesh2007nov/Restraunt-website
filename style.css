@@ -1,0 +1,35 @@
+.div1 {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-size: larger;
+}
+.bg {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: -1;
+  opacity: 0.6;
+}
+.inline-block {
+  display: inline-block;
+}
+.bi1,
+.bi2,
+.bi3 {
+  height: 300px;
+  width: 300px;
+  padding-top: 35%;
+}
+.bi1 {
+  margin-left: 60px;
+  margin-right: 60px;
+}
+.bi2 {
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+.bi3 {
+  margin-left: 60px;
+  margin-right: 60px;
+}
